@@ -1,0 +1,6 @@
+﻿  Zadatak_1.cpp
+c:\users\turalija\desktop\faks\1.semestar\informacijski sustavi\labovi\vjezba 3\labvj_4\labvj_4\zadatak_1.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\turalija\desktop\faks\1.semestar\informacijski sustavi\labovi\vjezba 3\labvj_4\labvj_4\zadatak_1.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\turalija\desktop\faks\1.semestar\informacijski sustavi\labovi\vjezba 3\labvj_4\labvj_4\zadatak_1.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LabVj_4.vcxproj -> C:\Users\Turalija\Desktop\Faks\1.semestar\Informacijski sustavi\Labovi\Vjezba 3\LabVj_4\Debug\LabVj_4.exe
+  LabVj_4.vcxproj -> C:\Users\Turalija\Desktop\Faks\1.semestar\Informacijski sustavi\Labovi\Vjezba 3\LabVj_4\Debug\LabVj_4.pdb (Full PDB)
